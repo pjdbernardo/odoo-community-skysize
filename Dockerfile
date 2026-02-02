@@ -1,2 +1,2 @@
 # Dockerfile inicial
-FROM odoo:16
+FROM odoo:19
